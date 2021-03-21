@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindWay", "FindWay.csproj", "{907720D7-94B7-4508-84C7-2C104EA3C38E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "..\WindowsFormsApp1\WindowsFormsApp1.csproj", "{F489EACB-3B65-4584-BE5D-97D6E533063D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{907720D7-94B7-4508-84C7-2C104EA3C38E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907720D7-94B7-4508-84C7-2C104EA3C38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907720D7-94B7-4508-84C7-2C104EA3C38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907720D7-94B7-4508-84C7-2C104EA3C38E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F489EACB-3B65-4584-BE5D-97D6E533063D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F489EACB-3B65-4584-BE5D-97D6E533063D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F489EACB-3B65-4584-BE5D-97D6E533063D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F489EACB-3B65-4584-BE5D-97D6E533063D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61A77D0B-7D97-42C8-961A-357375CF76F1}
+	EndGlobalSection
+EndGlobal

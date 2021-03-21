@@ -1,0 +1,6 @@
+E:\dev\way\FindWay\bin\Debug\FindWay.dll
+E:\dev\way\FindWay\bin\Debug\FindWay.pdb
+E:\dev\way\FindWay\obj\Debug\FindWay.csproj.CoreCompileInputs.cache
+E:\dev\way\FindWay\obj\Debug\FindWay.dll
+E:\dev\way\FindWay\obj\Debug\FindWay.pdb
+E:\dev\way\FindWay\obj\Debug\FindWay.csprojAssemblyReference.cache

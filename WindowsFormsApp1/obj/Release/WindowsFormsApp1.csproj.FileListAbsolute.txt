@@ -1,0 +1,13 @@
+E:\dev\way\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+E:\dev\way\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+E:\dev\way\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+E:\dev\way\WindowsFormsApp1\bin\Release\FindWay.dll
+E:\dev\way\WindowsFormsApp1\bin\Release\FindWay.pdb
+E:\dev\way\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\dev\way\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+E:\dev\way\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+E:\dev\way\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\dev\way\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\dev\way\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+E:\dev\way\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+E:\dev\way\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
